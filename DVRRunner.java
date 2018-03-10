@@ -10,7 +10,7 @@ public class DVRRunner {
 		String command = "";
 
 		// default input file
-		String networkFile = "input2.txt";
+		String networkFile = "input-medium.txt";
 		HashMap<String, Node> nodes = new HashMap<>();
 
 		Network network = new Network();
